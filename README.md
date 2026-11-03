@@ -1,4 +1,5 @@
 Zenani Masumpa
+
 Compliance Support Officer	Mapped from brief. Audited predictions for bias. Identified: Finance under-predicted (58 actual → 50 predicted) = Medium risk. HR low volume (70) vs Operations (175) = under-representation risk. Created bias risk badges Low/Medium/High per department.	Used AI to analyze bias: Prompt "Identify bias risks when HR has 70 tickets and Ops has 175". AI suggested Medium risk for HR, Low for IT. Validated with AI.
 
 Mushaisano Setautsi
